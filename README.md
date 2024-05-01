@@ -1,2 +1,2 @@
 # MIS515
-MIS515 Projects
+MIS515 Projects for data analysis
